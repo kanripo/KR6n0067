@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:23.719276
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:54
 #+TITLE: 攝大乘論抄
 #+PROPERTY: CBETA_ID T85n2806
 #+PROPERTY: ID KR6n0067
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2806
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0067_T_000-0999b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0067_T_001-0999b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2806¶
-
- 攝大乘論抄¶
+No. 2806¶
+攝大乘論抄¶
 ¶
 
 乃是大乘之副軸。建正法之勝幢。破異部於¶
